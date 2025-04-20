@@ -1,0 +1,8 @@
+13.78s - cell phone, Confidence: 89.74%, Distance: 55.64cm
+13.81s - CRACK_DETECTED, Confidence: 100.00%, Distance: 0.12cm
+
+
+
+
+
+
